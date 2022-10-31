@@ -1,0 +1,21 @@
+[{
+    "id" : 1,
+    "name" : "Tomas Oyarzun",
+    "age" : 26,
+    "worked" : "programmer javascript"
+},
+{
+    "id" : 2,
+    "name" : "rodrigo sanchez",
+    "age" : 33,
+    "worked" : "teacher primary school"
+},
+{
+    "id" : 3,
+    "name" : "juan hernandez",
+    "age" : 19,
+    "worked" : "student unversity"
+}
+
+
+]
